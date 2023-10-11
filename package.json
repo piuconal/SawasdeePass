@@ -4,8 +4,8 @@
   "description": "piuconal.com",
   "main": "index.js",
   "scripts": {
-    "build:css": "tailwindcss -i ./src/input.css -o ./public/output.css --watch",
-    "start:dev":"live-server public"
+    "css": "tailwindcss -i ./src/input.css -o ./public/output.css --watch",
+    "dev":"live-server public"
   },
   "keywords": [],
   "author": "piuconal.com",
