@@ -658,6 +658,10 @@ video {
   margin-top: 32px;
 }
 
+.mt-\[40px\] {
+  margin-top: 40px;
+}
+
 .mt-\[460px\] {
   margin-top: 460px;
 }
@@ -680,6 +684,10 @@ video {
 
 .box-border {
   box-sizing: border-box;
+}
+
+.block {
+  display: block;
 }
 
 .flex {
@@ -716,6 +724,14 @@ video {
 
 .h-\[122px\] {
   height: 122px;
+}
+
+.h-\[126px\] {
+  height: 126px;
+}
+
+.h-\[1300px\] {
+  height: 1300px;
 }
 
 .h-\[130px\] {
@@ -870,6 +886,10 @@ video {
   height: 280px;
 }
 
+.h-\[288px\] {
+  height: 288px;
+}
+
 .h-\[28px\] {
   height: 28px;
 }
@@ -900,6 +920,10 @@ video {
 
 .h-\[320px\] {
   height: 320px;
+}
+
+.h-\[323px\] {
+  height: 323px;
 }
 
 .h-\[32px\] {
@@ -1030,8 +1054,20 @@ video {
   height: 52px;
 }
 
+.h-\[550px\] {
+  height: 550px;
+}
+
 .h-\[572px\] {
   height: 572px;
+}
+
+.h-\[58px\] {
+  height: 58px;
+}
+
+.h-\[600px\] {
+  height: 600px;
 }
 
 .h-\[60px\] {
@@ -1150,26 +1186,6 @@ video {
   height: auto;
 }
 
-.h-\[976px\] {
-  height: 976px;
-}
-
-.h-\[288px\] {
-  height: 288px;
-}
-
-.h-\[px\] {
-  height: px;
-}
-
-.h-\[126px\] {
-  height: 126px;
-}
-
-.h-\[\] {
-  height: ;
-}
-
 .w-1\/2 {
   width: 50%;
 }
@@ -1204,6 +1220,10 @@ video {
 
 .w-\[114px\] {
   width: 114px;
+}
+
+.w-\[115px\] {
+  width: 115px;
 }
 
 .w-\[116px\] {
@@ -1338,6 +1358,10 @@ video {
   width: 231px;
 }
 
+.w-\[232px\] {
+  width: 232px;
+}
+
 .w-\[239\.5px\] {
   width: 239.5px;
 }
@@ -1364,6 +1388,10 @@ video {
 
 .w-\[26\.29px\] {
   width: 26.29px;
+}
+
+.w-\[261px\] {
+  width: 261px;
 }
 
 .w-\[262px\] {
@@ -1506,6 +1534,10 @@ video {
   width: 550px;
 }
 
+.w-\[556px\] {
+  width: 556px;
+}
+
 .w-\[563px\] {
   width: 563px;
 }
@@ -1582,6 +1614,10 @@ video {
   width: 75px;
 }
 
+.w-\[79px\] {
+  width: 79px;
+}
+
 .w-\[807px\] {
   width: 807px;
 }
@@ -1622,28 +1658,8 @@ video {
   width: 100%;
 }
 
-.w-\[556px\] {
-  width: 556px;
-}
-
-.w-\[26px\] {
-  width: 26px;
-}
-
-.w-\[261px\] {
-  width: 261px;
-}
-
-.w-\[\] {
-  width: ;
-}
-
-.w-\[232px\] {
-  width: 232px;
-}
-
-.w-\[9\] {
-  width: 9;
+.w-\[635px\] {
+  width: 635px;
 }
 
 .transform {
@@ -1724,10 +1740,6 @@ video {
 
 .gap-\[9\.74px\] {
   gap: 9.74px;
-}
-
-.gap-\[\] {
-  gap: ;
 }
 
 .rounded-\[10px\] {
